@@ -12,6 +12,8 @@ OpenCV (>= 3.4.0)
 
 Numpy
 
+# Paper
+Available @ https://docs.google.com/document/d/1ipZeJpdWTGkPc7ndfGPP7ItlKjiX-uYFU4WMxi7o5O0/edit?usp=sharing
 
 # Dataset
 Available @ 
